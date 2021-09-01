@@ -1,0 +1,9 @@
+
+
+Install the guideseq_env.yml enviroment.
+
+This was built off of functions from the Uditas software that was branched to Danner_Replace software. For this reason it contains many function that are not called. Ignore them.
+
+Overall this generally follows the logic of the initial guideseq software. However it checks for on target priming as the ODN used is longer than the original Guideseq software and has 2 nucleotides 
+beyond the primer binding site. Also the off-targets were generated with CrispRGold software which included InDel matches and not soley subsitutions.
+

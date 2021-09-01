@@ -1,0 +1,8 @@
+
+
+Install the AAVseq_env.yml enviroment.
+
+This was built off of functions from the Uditas software that was developed for multiple things and so contains extra functions that are not called. It was most recently used
+for a guide-seq like work flow. It nearlly identically follows my guide-seq workflow, except it looks for on-target priming on the AAV- ITRs. 
+
+
